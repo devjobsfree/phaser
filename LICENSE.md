@@ -1,4 +1,4 @@
-The MIT License (MIT)
+SS The MIT License (MIT)
 
 Copyright (c) 2018 Richard Davey, Photon Storm Ltd.
 
